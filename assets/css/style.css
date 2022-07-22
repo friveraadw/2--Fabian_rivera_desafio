@@ -1,0 +1,83 @@
+.clearfix {
+  overflow: auto;
+}
+
+ body{
+  margin: 0px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+.header h1{
+  padding: 8rem 0 0 5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  margin-bot: 1px;
+}
+
+.header h2{
+  margin-top: 1px;
+  padding: 0 0 10rem 5rem;
+  font-weight: 400;
+}
+
+
+.header{
+  height: 20em;
+  background-image: url("../imgs/fondo.jpg");
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 3em;
+}
+
+/*
+
+.header .main-text{
+  padding: 3em;
+  font-size: 2em;
+  font-weight: 400;
+}
+
+
+.header h1{
+  font-weight: 400;
+}
+
+.main {
+  width: 80%;
+  margin: auto;
+}
+
+.main td{
+  width: 50%;
+  padding: 2em;
+}
+
+.main img{
+  max-width: 20%;
+  border: solid 1px #ddd;
+}
+*/
+.footer{
+  
+  height: 3em;
+  line-height: 3em;
+  background-color: rgb(185, 112, 41);
+  color: white;
+  text-align: center;
+  font-weight: 900;
+  margin-top: 1rem;
+  
+}
+
+.img2 {
+  max-height: 35rem;
+  padding-left: 5rem;
+  margin: 2rem 0 2rem 0;
+  }
+
+.text {
+  font-size: 2em;
+  vertical-align:top;
+  display:inline-block;
+  padding: 18rem 0 0 25rem;
+}
